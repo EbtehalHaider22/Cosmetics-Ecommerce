@@ -1,0 +1,23 @@
+.auth-card {
+    /* background-color: #ffeaea; */
+    color: #D49696 !important;
+    border-radius: 20px;
+
+}
+
+.auth-card .form-control {
+    border-radius: 10px;
+}
+
+.auth-card .btn-primary {
+    background-color: #D49696;
+    border-color: #D49696;
+    color: #fff;
+    border-radius: 20px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.auth-card .btn-primary:hover {
+    background-color: #bf7e7e;
+    border-color: #bf7e7e;
+}
